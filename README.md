@@ -19,7 +19,7 @@ Before running this script, make sure to install the required packages:
 
 3. **Track a WishList**: Receive updates on availability, current prices, and suggestions on which books can be bought based on the desired prices you initially set.
 
-## Interactive Interface**: 
+## Interactive Interface: 
 The tool guides you through each step, making it user-friendly.
 
 ## Future Enhancements
