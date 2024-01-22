@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Jan 20 13:45:56 2024
-
 @author: Bhaskar Teja Ulichi
 
 Before running this script, make sure to install the required packages:
